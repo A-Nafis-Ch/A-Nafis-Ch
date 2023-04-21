@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-Nafis-Ch
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning the tools needed for web deveoping
+- 🌱 I’m currently learning the tools needed for web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via my email: abdullahnafis256@gmail.com
 
