@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @A-Nafis-Ch
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning the tools needed for web developing
-- 📫 You can reach me via my email: abdullahnafis256@gmail.com
+👋 Hi, I'm Abdullah Nafis Chowdhury (A-Nafis-Ch)
+I'm a CSE graduate from North South University and currently working as an Executive – IT at X Index Companies. I manage IT infrastructure and support, while also building my skills as a Full Stack Web Developer.
 
-<!---
-A-Nafis-Ch/A-Nafis-Ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Tech Stack:
+HTML | CSS | JavaScript | React | Tailwind CSS | Next.js | MongoDB
+
+🌱 Learning: Express.js, full-stack development
+📌 Goal: To become a skilled full stack developer and contribute to real-world projects.
