@@ -55,6 +55,4 @@ I am a **Full-Stack Developer & AI Specialist** with a strong foundation in **IT
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/abdullah-nafis-chowdhury-7510611a8/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahnafis256@gmail.com)
+
